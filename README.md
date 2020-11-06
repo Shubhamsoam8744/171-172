@@ -1,2 +1,3 @@
-# 171-172
-A collection of Python Programs for my CS class
+# Python Programs
+
+A collection of practice Python Programs for my CS classes. 
